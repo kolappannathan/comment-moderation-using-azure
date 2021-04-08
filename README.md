@@ -20,4 +20,6 @@ This is a console application that demonstrates how to moderate comments using [
    - [x] Creating & deleting custom block list
    - [x] Adding & removing words from the block list
 
+###### Note
+
 To view the main code that interacts with the Azure service head over to the [ModeratorLib class](https://github.com/kolappannathan/comment-moderation-using-azure/blob/main/src/Comment%20Moderation/ModerationLib.cs).
