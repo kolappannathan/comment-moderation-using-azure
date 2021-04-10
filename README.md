@@ -5,7 +5,7 @@ This is a console application that demonstrates how to moderate comments using [
 #### Associated Blog posts
 
  1. [Moderate comments on your website using Azure Content Moderator](https://kolappan.dev/2021/03/21/moderate-comments-using-azure-content-moderator)
- 2. Creating Custom blocklists in the Content Moderator service and managing it
+ 2. Creating & Managing custom blocklists in the Azure Content Moderator service
  3. Using the review system within Azure for Manual reviews
 
 #### Functions covered in this POC Console App
